@@ -32,9 +32,9 @@ function plugin_version_RemoverCampo() {
    return [
       'name'           => 'RemoverCampo',
       'version'        => MYEXAMPLE_VERSION,
-      'author'         => 'John Doe and <a href="http://foobar.com">Foo Bar</a>',
+      'author'         => 'Carlos Rosa',
       'license'        => 'GLPv3',
-      'homepage'       => 'http://perdu.com',
+      'homepage'       => 'https://github.com/dowriqrosa',
       'requirements'   => [
          'glpi'   => [
             'min' => '10.0'
